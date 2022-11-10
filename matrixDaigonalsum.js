@@ -1,3 +1,7 @@
+`
+https://leetcode.com/problems/matrix-diagonal-sum/description/
+`
+
 var diagonalSum = function(mat) {
     let sum = 0;
        for(let i=0;i<mat.length;i++){
